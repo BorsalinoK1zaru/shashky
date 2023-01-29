@@ -1,0 +1,74 @@
+﻿  Shashky.cpp
+c:\users\ab05b\onedrive\рабочий стол\shashky\board.h(19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\board.h(19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\board.h(29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\shashkyontable.h(22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(92): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(94): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(96): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(97): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(105): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(109): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(110): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(134): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(136): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(139): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(141): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(146): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(148): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(151): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(153): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(164): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(165): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(166): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(168): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(174): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(175): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(176): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(178): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(184): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(185): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(186): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(188): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(194): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(195): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(196): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(198): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(212): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(241): warning C4838: преобразование из "int" в "bool" требует сужающего преобразования
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(243): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(244): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(248): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(254): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(278): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(279): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(281): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(287): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(311): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(312): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(314): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(320): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(344): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(345): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(347): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(353): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(389): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(390): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(407): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(408): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(425): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(426): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(443): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(444): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(463): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(32): warning C4715: Game::centre_on_square: значение возвращается не при всех путях выполнения
+c:\users\ab05b\onedrive\рабочий стол\shashky\game.h(384): warning C4715: Game::queen_square_for_move: значение возвращается не при всех путях выполнения
+  Shashky.vcxproj -> C:\Users\ab05b\OneDrive\Рабочий стол\Shashky\x64\Debug\Shashky.exe
